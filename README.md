@@ -22,8 +22,7 @@ Installation 🛠️
 
 Clone the Repository:
 ```sh
-git clone https://github.com/your-repo/email-marketing-ml.git
-cd email-marketing-ml
+git clone https://github.com/shivamvishwakarmaaa/ml-project-email-campign.git
 ```
 
 Install Required Libraries:
